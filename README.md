@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tono-k
+- 🌱 I’m currently learning mobile development
+- 🏎️ I’m fascinated by F1
